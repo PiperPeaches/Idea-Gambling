@@ -5,11 +5,12 @@ Idea-Gambling is a tool designed to help developers and creators break through "
 
 ## Spin for and Idea
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Framework**: [React](https://reactjs.org/)
 * **Language**: [TypeScript](https://www.typescriptlang.org/)
 * **Icons**: [FontAwesome](https://fontawesome.com/)
 * **Build Tool**: (e.g., Vite or Next.js)
 
-## 📦 Getting Started
+## Getting Started
 go to this [link to try it](https://idea-gambling.vercel.app/)
+> AI Was used to Generate some of the Arrays for the spinners, Mainly just wildcards.
